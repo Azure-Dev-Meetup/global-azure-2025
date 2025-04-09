@@ -71,7 +71,7 @@ languages:
                     slogan: A free conference for Azure developers and enthusiasts
                     location: Munich, Germany
                     description: |
-                        ## We're currently finalizing our speaker lineup - stay tuned!
+                        ### We're currently finalizing our speaker lineup - stay tuned!
 
                         **Global Azure** is a series of events organized by Azure enthusiasts around the world to celebrate Microsoft Azure cloud. These events typically take place over three days and include local, hybrid, and livestreamed sessions where participants can learn from the best community leaders about various Azure topics[1](https://blog.globalazure.net/Blog/Post/330/Welcome-to-Global-Azure-2025).
 
@@ -163,7 +163,7 @@ languages:
                     slogan: Eine kostenlose Konferenz für Azure Entwickler und Interessierte
                     location: München
                     description: |
-                      ## Das vollständige Speaker-Lineup wird in den nächsten Tagen bekannt gegeben.
+                      ### Das vollständige Speaker-Lineup wird in den nächsten Tagen bekannt gegeben.
 
                       **Global Azure** ist eine Reihe von Veranstaltungen, die von Azure-Enthusiasten auf der ganzen Welt organisiert werden, um die Microsoft Azure Cloud zu feiern. Diese Veranstaltungen finden typischerweise über drei Tage statt und beinhalten lokale, hybride und livestreamed Sessions, bei denen die Teilnehmer von den besten Community-Leadern über verschiedene Azure-Themen lernen können.
 
