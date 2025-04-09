@@ -71,6 +71,8 @@ languages:
                     slogan: A free conference for Azure developers and enthusiasts
                     location: Munich, Germany
                     description: |
+                        ## We're currently finalizing our speaker lineup - stay tuned!
+
                         **Global Azure** is a series of events organized by Azure enthusiasts around the world to celebrate Microsoft Azure cloud. These events typically take place over three days and include local, hybrid, and livestreamed sessions where participants can learn from the best community leaders about various Azure topics[1](https://blog.globalazure.net/Blog/Post/330/Welcome-to-Global-Azure-2025).
 
                         **Global Azure Munich Edition** is the local event held in Munich, Germany. This year's edition will take place on Thursday, May 8, 2025, and will be hosted by Microsoft Deutschland at their Munich office[2](https://sessionize.com/global-azure-munich-2025/). The event will feature sessions from various speakers, including community leaders and Microsoft experts, covering a wide range of Azure-related topics[3](https://teams.microsoft.com/l/message/19:3bec836f2c7f4060bc6ce331da03016b@thread.skype/1743689855379?tenantId=3157d5b8-9db5-431c-98fb-fa2fdcedf861&groupId=b5dd2e92-6468-45eb-94a1-7258a4469dd9&parentMessageId=1743689855379&teamName=Medialesson&channelName=DevTalk&createdTime=1743689855379)[4](https://teams.microsoft.com/l/message/19:2dfa67ef-cadc-40fe-b7a1-eb8bb06b7d18_5eb0760c-7a11-4d59-9a9d-c58db33b1ce2@unq.gbl.spaces/1744015931753?context=%7B%22contextType%22:%22chat%22%7D).
@@ -161,6 +163,8 @@ languages:
                     slogan: Eine kostenlose Konferenz für Azure Entwickler und Interessierte
                     location: München
                     description: |
+                      ## Das vollständige Speaker-Lineup wird in den nächsten Tagen bekannt gegeben.
+
                       **Global Azure** ist eine Reihe von Veranstaltungen, die von Azure-Enthusiasten auf der ganzen Welt organisiert werden, um die Microsoft Azure Cloud zu feiern. Diese Veranstaltungen finden typischerweise über drei Tage statt und beinhalten lokale, hybride und livestreamed Sessions, bei denen die Teilnehmer von den besten Community-Leadern über verschiedene Azure-Themen lernen können.
 
                       **Global Azure München** ist dabei die lokale Ausgabe. Die diesjährige Ausgabe findet am Donnerstag, den 8. Mai 2025, statt und wird von Microsoft Deutschland in ihrem Münchener Büro ausgerichtet. Die Veranstaltung wird Sessions von verschiedenen Sprechern, darunter Community-Leader und Microsoft-Experten, umfassen, die eine breite Palette von Azure-bezogenen Themen abdecken.
