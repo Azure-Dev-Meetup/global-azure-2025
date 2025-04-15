@@ -199,8 +199,8 @@ params:
                 - 80807 München
                 - Germany
             map:
-                embeddableMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977?scrollWheelZoom=false
-                viewLargerMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977
+                embeddableMapUrl: //umap.openstreetmap.de/de/map/unbenannte-karte_68282?scrollWheelZoom=false
+                viewLargerMapUrl: //umap.openstreetmap.de/de/map/unbenannte-karte_68282
                 # Link to edit the map: https://umap.openstreetmap.fr/en/map/anonymous-edit/1105977:HjtVVnbwCn6Yi3O02DTPnspzuyoHvP_Kn-M9rE53eE8
             callToAction:
                 eventbrite:
@@ -212,7 +212,7 @@ params:
             images:
                 logo: logos/GlobalAzure2025-500.png
                 titleBackground: images/munich-1280.jpg
-                location: images/microsoft.jpeg
+                location: images/microsoft.png
             sponsors:
                 - logo: logos/microsoft.png
                   url: https://www.microsoft.com/
