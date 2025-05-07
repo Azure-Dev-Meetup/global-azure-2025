@@ -222,6 +222,9 @@ params:
                 - logo: logos/CloudLand_2025-Banner-512x256.jpg
                   url: https://www.cloudland.org
                   name: Cloudland
+                - logo: logos/cgi.png
+                  name: 'CGI'
+                  url: https://www.cgi.com/
                 - logo: logos/teamschedule.png
                   url: https://teamschedule.team/
                   name: Team Schedule
