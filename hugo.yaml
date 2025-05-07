@@ -219,6 +219,9 @@ params:
                 - logo: logos/medialesson-logo.svg
                   url: https://www.medialesson.de/
                   name: 'Medialesson GmbH'
+                - logo: logos/CloudLand_2025-Banner-512x256.jpg
+                  url: https://www.cloudland.org
+                  name: Cloudland
             partners:
                 - logo: logos/medialesson-logo.svg
                   url: https://www.media-lesson.com/
