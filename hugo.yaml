@@ -228,10 +228,6 @@ params:
                 - logo: logos/teamschedule.png
                   url: https://teamschedule.team/
                   name: Team Schedule
-            partners:
-                - logo: logos/medialesson-logo.svg
-                  url: https://www.media-lesson.com/
-                  name: 'Medialesson GmbH'
             organizers:
                 - 'ab929857-c12d-4e4c-b4c9-4f3cab77573a'
                 - 'a5b09459-7526-4459-830d-7fb2bcdd9048'
